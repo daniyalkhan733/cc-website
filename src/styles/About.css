@@ -1,0 +1,21 @@
+.about{
+    background-image : url('/public/Cubes.svg');
+    background-repeat : repeat;
+    background-size: 50%;
+    height: 100vh;
+   color: aliceblue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.head{
+  font-size: 5rem;
+  text-align: center;
+  margin: 5rem;
+  width: 55vw;
+}
+.about_img{
+  width:30vw ;
+  margin: 5rem;
+}

@@ -1,0 +1,15 @@
+.outro_img{
+   display: flex;
+   height: 100vh;
+margin-top: 3rem;
+justify-content: space-between;
+}
+.outro_img1{
+width: 30%;
+height: 70%;
+
+}
+.outro_img2{
+    width: 60%;
+    height: 70%;
+}
